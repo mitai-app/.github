@@ -1,8 +1,4 @@
-# 見 - Mi
-
-Welcome to [Project 見](https://jisho.org/search/%E8%A6%8B%20%23kanji) 
-
-<h1 align="center">ミ Mi - PS3/PS4 mobile tool</h1>
+<h1 align="center">Welcome to [Project <a href="https://jisho.org/search/%E8%A6%8B%20%23kanji">見</a>]</h1>
 
 
 <p align="center">
