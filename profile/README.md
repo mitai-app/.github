@@ -79,7 +79,7 @@ When a **new version** is out, you'll know right in the app :)
 
 |                             | 🤖 ANDROID         | 📱 IOS           |
 | --------------------------  | :----------------: | :---------------:|
-| Jailbreak Server (5.05-9.00)|         ✔️         |        ✔️        |
+| Jailbreak Server (5.05-9.00)|         ✔️         |        ⚠️ (9.00 only)        |
 | RPI Package Uploading       |         ❌         |        ❌        |
 | GoldHen Bin Uploader        |         ✔️         |        ✔️        |
 | FTP Support                 |         ✔️         |        ✔️        |
@@ -90,12 +90,12 @@ When a **new version** is out, you'll know right in the app :)
 | Lastest Feed                |         ❌         |        ✔️        |
 | Cheat Manager               |         ❌         |        ❌        |
 
-## Steps: [Needs Work] 
+## Steps: [Needs Work on fw<9.00] 
 - Clear PS4 cache
-- Enter: http://{android_ip_here}:8080/ (on PS4)
+- Enter: http://{mobile_ip_here}:8080/ (on PS4)
 - Click that only hyperlink at the bottom
 - Exploit will do exploity things, just wait as the app loads the payload (may take a while depending on connection)
-- Golden Hen v2.2.4/5 will load from android/ios app.
+- Golden Hen v2.2.4 will load from android/ios app.
 
 ## How to load consoles 
 The app will automatically detect goldhen, klog, orbis for the ps4 and ps3mapi, ccapi and webman for the ps3.
@@ -111,7 +111,7 @@ Reach out to me via the **[profile addresses](https://github.com/Mr-Smithy-x)**.
 <table>
 <tr>
 <td colspan="4">
-<em><samp>🎷 Ko-fi? <a href="https://ko-fi.com/mrsmithyx">Donation</a></samp></em>
+<em><samp>🎷 <a href="https://ko-fi.com/mrsmithyx">Donate</a></samp></em>
 </td>
 
 
@@ -125,7 +125,7 @@ Reach out to me via the **[profile addresses](https://github.com/Mr-Smithy-x)**.
 
       
 Special thanks to ps4 dev scene:
-- [Smithy](https://github.com/Mr-Smithy-x)
+- [CTurt](https://github.com/CTurt)
 - [Specter](https://github.com/Cryptogenic)
 - [SiSTRo](https://github.com/SiSTR0)
 - [golden](https://github.com/jogolden)
@@ -143,6 +143,7 @@ Special thanks to ps4 dev scene:
 - [Vortex](https://github.com/xvortex)
 - [zecoxao](https://twitter.com/notzecoxao)
 - [Znullptr](https://github.com/dmiller423)
+- [Me](https://github.com/Mr-Smithy-x)
 -  and others not mentions
 
 
