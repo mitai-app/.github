@@ -81,7 +81,7 @@ When a **new version** is out, you'll know right in the app :)
 |                             | 🤖 ANDROID         | 📱 IOS           |
 | --------------------------  | :----------------: | :---------------:|
 | Jailbreak Server (5.05-9.00)|         ✔️         |        ⚠️ (9.00 only)        |
-| RPI Package Uploading       |         ❌         |        ❌        |
+| RPI Package Uploading       |         ❌         |        ✔️ (Ver. > 0.1.0)       |
 | GoldHen Bin Uploader        |         ✔️         |        ✔️        |
 | FTP Support                 |         ✔️         |        ✔️        |
 | Klog Viewer (Sock)          |         ✔️         |        ❌        |
